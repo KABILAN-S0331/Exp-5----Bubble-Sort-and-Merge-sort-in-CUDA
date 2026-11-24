@@ -332,8 +332,9 @@ int main() {
 ```
 
 ## OUTPUT:
-<img width="1910" height="971" alt="image" src="https://github.com/user-attachments/assets/c4925682-a49e-4a8f-9d5c-ca37119b97a0" />
+<img width="1761" height="516" alt="Screenshot 2026-11-24 103750" src="https://github.com/user-attachments/assets/090a2221-14e1-4e12-ae37-b54b31fc9afa" />
+
 
 
 ## RESULT:
-Thus, the program has been executed using CUDA to ________________.
+Thus, the program has been executed successfully using CUDA to compare CPU and GPU implementations of Bubble Sort and Merge Sort. It is observed that CPU Bubble Sort took 265.259842 milliseconds, GPU Bubble Sort took 0.447808 milliseconds, CPU Merge Sort took 1.825974 milliseconds, and GPU Merge Sort took 351.834442 milliseconds. Hence, GPU Bubble Sort showed better execution time, whereas CPU Merge Sort performed faster than GPU Merge Sort for this dataset.
